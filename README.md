@@ -23,10 +23,10 @@
 
 | No.                                                         | Tasks                                                   |
 | ----------------------------------------------------------- | ------------------------------------------------------- |
-| [LAB2](https://www.kami-code.com/blog/2021/10/17/complier-lab2/) | Write flex c++                                          |
-| [LAB3](https://www.kami-code.com/blog/2021/11/04/complier-lab3/) | Write Bison c++                                         |
-| [LAB4](https://www.kami-code.com/blog/2021/11/22/complier-lab4/) | Implement a type-checking module when scanning the AST. |
-| [LAB5](https://www.kami-code.com/blog/2021/12/14/complier-lab5/) | Implement a complete runnable tiger compiler.           |
+| [LAB2](https://www.chenbao.tech/blog/2021/10/17/complier-lab2/) | Write flex c++                                          |
+| [LAB3](https://www.chenbao.tech/blog/2021/11/04/complier-lab3/) | Write Bison c++                                         |
+| [LAB4](https://www.chenbao.tech/blog/2021/11/22/complier-lab4/) | Implement a type-checking module when scanning the AST. |
+| [LAB5](https://www.chenbao.tech/blog/2021/12/14/complier-lab5/) | Implement a complete runnable tiger compiler.           |
 | LAB6(NOTE TEMPORARILY NOT PROVIDED)                         | Implement register allocation.                          |
 | LAB7(NOT IMPLEMENTED)                                       | Implement garbage collection.                           |
 
